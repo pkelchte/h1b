@@ -6,7 +6,7 @@ This document is specific to entry level Electrical Engineers in the Los Angeles
 # Application Process and Costs
 
 - Step 1: Employer submits Labor Condition Application (LCA) to Department Of Labor (DOL) for certification. This happens online and is free.
-- Step 2: Employer submits by paper a completed Form I-129 to USCIS. This costs $325 + applicable fees of up to $2000.
+- Step 2: Employer submits a completed Form I-129 to USCIS  by paper. This costs $325 + applicable fees of up to $2000.
 The DOL-certified LCA from Step 1. must be submitted with the Form I-129.
 - Step 3: Prospective Workers Outside the United States Apply for Visa and/or Admission.
 
