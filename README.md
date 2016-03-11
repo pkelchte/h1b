@@ -11,9 +11,14 @@ The employer should file Form I-129, Petition for a Nonimmigrant Worker, with th
 - Step 3 (only at first application): Prospective Workers Outside the United States Apply for Visa and/or Admission.
 
 ## Step 1. LCA to DOL
-All data in this form is straightforward (point of contact at company, Federal Employer Identification, NAICS code, ...) except for the following bits. I compiled the information for my situation in March 2016.
 
-Instructions for the form are found in [Form 9035CP](9035CP.pdf)
+On the [iCERT Visa Portal System](https://icert.doleta.gov/), the company representative must log in or create an Employer Account and select *LCA Visa Program*.
+
+Once logged in, a new ETA Form 9035E has to be started. Required fields are marked with *, optional fields with §.
+
+Form Access Preconditions have to be filled in with *Yes, Yes, Either*, before the actual form can be filled. Instructions for the form are found in [Form 9035CP](9035CP.pdf) or in the [User Guide](iCERT_LCA_Mod_External_User_Guide.pdf).
+
+All data in this form is straightforward (point of contact at company, Federal Employer Identification, NAICS code, ...) except for the following bits. I compiled the information for my situation in March 2016. Additional tips by the DOL are available in [this document](Employer-Filing-Tips_March 2016-03092016-063430.pdf)
 
 ### B. Temporary Need Information
 
