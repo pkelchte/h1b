@@ -3,14 +3,14 @@ Collection of information regarding the H-1B (specialty occupation) visa applica
 
 This document is specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B benificiaries of other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data proper for their prospective job.
 
-# Application Process
+# Application Process and Costs
 
-- Step 1: Employer Submits Labor Condition Application (LCA) to Department Of Labor for certification (DOL).
-- Step 2: Employer Submits Completed Form I-129 to USCIS.
-The employer should file Form I-129, Petition for a Nonimmigrant Worker, with the correct USCIS Service Center. The DOL-certified LCA must be submitted with the Form I-129.
-- Step 3 (only at first application): Prospective Workers Outside the United States Apply for Visa and/or Admission.
+- Step 1: Employer Submits on-line an Labor Condition Application (LCA) to Department Of Labor (DOL) for certification. This is free.
+- Step 2: Employer Submits by paper a completed Form I-129 to USCIS. This costs $325 + applicable fees of up to $2000.
+The DOL-certified LCA from Step 1. must be submitted with the Form I-129.
+- Step 3: Prospective Workers Outside the United States Apply for Visa and/or Admission.
 
-## Step 1. LCA to DOL
+## Step 1. On-line Labor Condition Approval approval with DOL -- ($0)
 
 On the [iCERT Visa Portal System](https://icert.doleta.gov/), the company representative must log in or create an Employer Account and select *LCA Visa Program*.
 
@@ -47,3 +47,4 @@ If the company has less than 8 current H-1B employees, fill out the following se
 #### b. Subsection 2
 - leave blank
 
+## Step 2. Form I-129 and DOL-certified LCA to USCIS ($325 + $1500 + $500)
