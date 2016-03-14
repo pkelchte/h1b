@@ -47,4 +47,43 @@ If the company has less than 8 current H-1B employees, fill out the following se
 #### b. Subsection 2
 - leave blank
 
-## Step 2. Form I-129 and DOL-certified LCA to USCIS ($325 + $1500 + $500)
+## Step 2. Form I-129 and DOL-certified LCA to USCIS ($325 + $500 + $1500)
+
+Dot Code: 003
+
+beneficiary’s last 2 pay stubs, Form W-2, and other relevant evidence, as well as a copy of the
+beneficiary’s Form I-94, passport, travel document, or I-797.
+
+
+The petition must be filed by a U.S. employer or a U.S. agent and must be filed with:
+1.	 Evidence that a labor condition application (LCA) has been certified by the U.S. Department of Labor;
+2.	 Evidence showing that the proposed employment qualifies as a specialty occupation;
+3.	 Evidence showing that the beneficiary has the required degree by submitting either:
+  1.	 A copy of the beneficiary’s U.S. bachelor’s or higher degree as required by the specialty occupation;
+  2.	 A copy of a foreign degree and evidence that it is equivalent to the U.S. degree; or
+  3.	 Evidence of education, specialized training, and/or progressively responsible experience that is equivalent to the
+required U.S. degree.
+4. A copy of any required license or other official permission to practice the occupation in the state of intended
+employment; and
+5. A copy of any written contract between the petitioner and the beneficiary or a summary of the terms of the oral
+agreement under which the beneficiary will be employed.
+
+
+Sign preferably with blue ink.
+
+Courier Filing Address:
+
+USCIS
+California Service Center
+ATTN: H-1B Extensions
+24000 Avila Road
+2nd Floor, Room 2312
+Laguna Niguel, CA 92677
+
+Regular Mail Filing Address:
+
+USCIS
+California Service Center
+ATTN: H-1B Extensions
+P.O. Box 10129
+Laguna Niguel, CA 92607-1012
