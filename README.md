@@ -3,11 +3,14 @@ Collection of information regarding the H-1B (specialty occupation) visa transfe
 
 Also, the codes and salaries in this document are specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B benificiaries of other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data for their prospective job.
 
-# Application Process and Costs
+# Application Process
 
-- Step 1: Employer submits Labor Condition Application (LCA) to Department Of Labor (DOL) for certification. This happens online and is free.
-- Step 2: Employer submits a completed Form I-129 to USCIS  by paper. This costs $325 + applicable fees of up to $2000.
-The DOL-certified LCA from Step 1. must be submitted with the Form I-129.
+1. Employer submits Labor Condition Application (LCA) to Department Of Labor (DOL) for certification
+This happens online and is free.
+2. Employer submits a completed Form I-129 with additional evidence to USCIS. The DOL-certified LCA from 1. must be included.
+This happens by mail. A breakdown of the filing fees can be found below.
+
+As soon as the package in 2. is submitted, the H-1B worker can start employment with the new employer.
 
 ## Step 1. Labor Condition Approval approval with DOL -- (online, $0)
 
