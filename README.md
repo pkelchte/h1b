@@ -86,15 +86,16 @@ School records, diplomas, degrees, affidavits, declarations, contracts, and simi
 2. Hold a foreign degree determined to be equivalent to a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university. This by evaluation of education by a reliable credentials evaluation service which specializes in evaluating foreign educational credentials
 
 #### 4. Prevailing wage
-Attach
+Attach all three:
 
 1. Copies of any written contracts between the petitioner and beneficiary, or a summary of the terms of the oral agreement under which the beneficiary will be employed, if there is no written contract.
 2. A certification from the Secretary of Labor that the petitioner has filed a labor condition application with the Secretary,
 3. A statement that it will comply with the terms of the labor condition application for the duration of the alien's authorized period of stay,
 
 #### 5. Return costs
-Liability for transportation costs. The employer will be liable for the reasonable costs of return transportation of the alien abroad if the alien is dismissed from employment by the employer before the end of the period of authorized admission.
+Written confirmation acknowledging the liability for transportation costs.
 
+The employer will be liable for the reasonable costs of return transportation of the alien abroad if the alien is dismissed from employment by the employer before the end of the period of authorized admission.
 
 ### Filling in I-129
 [Dot Code](https://www.foreignlaborcert.doleta.gov/pdf/eta_form_9035cp_appendix_i_121908.pdf) for Electrical Engineers: 003
