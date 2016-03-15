@@ -116,7 +116,7 @@ The employer will be liable for the reasonable costs of return transportation of
 ### Filing fees payable by check
 There are three fees: the I-129 fee, the Fraud detection and prevention fee, and the ACWIA fee. The American Competitiveness and Workforce Improvement Act (ACWIA) Fee is a training fee meant to fund the training of U.S. workers. If the employer has fewer than 25 full-time employees, they must pay only one-half of the required fee.
 
-**According to the Code of Federal Regulations (CFR) [DOL WHD Fact Sheet  #62H](http://www.dol.gov/whd/regs/compliance/FactSheet62/whdfs62H.pdf), an H-1B worker can never be required to pay any part of the ACWIA and Fraud detection and prevention fees. Attorney fees and filing fees for ETA 9035 and Form I-129 can be deducted as long as they don't reduce an H-1B worker’s pay below the required wage rate.**
+**According to the Code of Federal Regulations (CFR) [DOL WHD Fact Sheet  #62H](http://www.dol.gov/whd/regs/compliance/FactSheet62/whdfs62H.pdf), an H-1B worker can never be required to pay any part of the ACWIA and Fraud detection and prevention fees. Attorney fees and filing fees for Form I-129 can be deducted as long as they don't reduce an H-1B worker’s pay below the required wage rate.**
 
 All checks and money orders must be drawn on U.S. financial institutions and made payable in U.S. funds to **U.S. Department of Homeland Security** (not "USDHS" or "DHS").
 
