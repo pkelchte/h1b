@@ -8,7 +8,7 @@ Also, the codes and salaries in this document are specific to entry level Electr
 1. Employer submits Labor Condition Application (LCA) to Department Of Labor (DOL) for certification
 This happens online and is free.
 2. Employer submits a completed Form I-129 with additional evidence to USCIS. The DOL-certified LCA from 1. must be included.
-This happens by mail. A breakdown of the filing fees can be found below.
+This happens by mail. The total filing fee is $2325, additional details about deducting this business expense to the worker are found below.
 
 As soon as the package in 2. is submitted, the H-1B worker can start employment with the new employer.
 
@@ -52,7 +52,7 @@ If the company has less than 8 current H-1B employees, fill out the following se
 #### b. Subsection 2
 - leave blank
 
-## Step 2. Form I-129 and DOL-certified LCA to USCIS ($325 + $500 + $1500)
+## Step 2. Form I-129 and additional evidence USCIS ($325 + $500 + $1500)
 
 Form I-129 has to be filled in, and additional evidence has to be compiled for the following 5 requirements.
 
@@ -100,10 +100,16 @@ Written confirmation acknowledging the liability for transportation costs.
 
 The employer will be liable for the reasonable costs of return transportation of the alien abroad if the alien is dismissed from employment by the employer before the end of the period of authorized admission.
 
-### Filling in I-129
+### Filling in I-129 and attachments
+Sign preferably with dark blue ink.
+
+#### I-129
 [Dot Code](https://www.foreignlaborcert.doleta.gov/pdf/eta_form_9035cp_appendix_i_121908.pdf) for Electrical Engineers: 003
 
-Sign preferably with blue ink.
+#### H Classification Supplement to Form I-129
+
+#### H-1B and H-1B1 Data Collection and Filing Fee Exemption Supplement
+
 
 ### Additional evidence
 Beneficiary’s last 2 pay stubs, Form W-2, as well as a copy of the beneficiary’s Form I-94, passport, travel document, or I-797.
