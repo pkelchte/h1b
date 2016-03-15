@@ -25,6 +25,9 @@ All data in this form is straightforward (point of contact at company, Federal E
 - 1 *Job title*: Electrical Engineer
 - 2 *SOC OES/ONET* Code: 17-2071
 - 3 *OES/SOC Title*: Electrical Engineers
+- 4 *Full-Time*: Yes
+- 5 *Begin Date*: 03-28-2016
+- 6 *End Date*: 03-27-2019 (H-1B can be requested for max. 3 years at a time)
 
 ### G. Employment and Prevailing Wage Information
 
