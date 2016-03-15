@@ -1,14 +1,13 @@
 # H-1B
-Collection of information regarding the H-1B (specialty occupation) visa application/transfer.
+Collection of information regarding the H-1B (specialty occupation) visa transfer, assuming the simplest case (beneficiary will work at the company's main office, there is no [EAR](http://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear#ccl) OR ITAR data they will have access to, and the company is not H-1B dependent)
 
-This document is specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B benificiaries of other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data proper for their prospective job.
+Also, the codes and salaries in this document are specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B benificiaries of other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data for their prospective job.
 
 # Application Process and Costs
 
 - Step 1: Employer submits Labor Condition Application (LCA) to Department Of Labor (DOL) for certification. This happens online and is free.
 - Step 2: Employer submits a completed Form I-129 to USCIS  by paper. This costs $325 + applicable fees of up to $2000.
 The DOL-certified LCA from Step 1. must be submitted with the Form I-129.
-- Step 3: Prospective Workers Outside the United States Apply for Visa and/or Admission.
 
 ## Step 1. Labor Condition Approval approval with DOL -- (online, $0)
 
@@ -36,7 +35,7 @@ All data in this form is straightforward (point of contact at company, Federal E
 - 9 $72,301
 - 10 year
 - 11 *Prevailing wage source* [FLC Data Center](http://www.flcdatacenter.com/OesQuickResults.aspx?area=31084&code=17-2071&year=16&source=1)
-  * a OES 
+  * a OES
   * b 2016
   * c OFLC Online Data Center
 
@@ -52,27 +51,95 @@ If the company has less than 8 current H-1B employees, fill out the following se
 
 ## Step 2. Form I-129 and DOL-certified LCA to USCIS ($325 + $500 + $1500)
 
-Dot Code: 003
+Form I-129 has to be filled in, and additional evidence has to be compiled and submitted with it.
 
-beneficiary’s last 2 pay stubs, Form W-2, and other relevant evidence, as well as a copy of the
-beneficiary’s Form I-94, passport, travel document, or I-797.
+There are 4 requirements for the H-1B transfer for which evidence has to be submitted:
+1. There is an employer-employee relationship with the petitioner
+2. The job must qualify as a specialty occupation
+3. The beneficiary must qualify for that job
+4. The benificiary must be paid at least the prevailing wage
+5. The employer is liable for reasonable costs of return transportation at dismissal before the end of the visa
+
+From the [USCIS Adjudicator's Field Manual](https://www.uscis.gov/iframe/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593.html):
+
+#### 1. Employer-employee relationship
+With contracts or offer letters, the petitionor must show a combination of the following:
+- The beneficiary works at an office location owned/leased by the petitioner,
+- the beneficiary reports directly to the petitioner on a daily basis,
+- the petitioner sets the work schedule of the beneficiary,
+- the beneficiary uses the petitioner’s tools/instrumentalities to perform the duties of employment,
+- the petitioner directly reviews the work-product of the beneficiary.
+- The petitioner claims the beneficiary for tax purposes and provides medical benefits to the beneficiary.
+
+#### 2. Specialty Occupation
+With expert letters and other forms of documentation, it must be shown that the position meets one of the following criteria:
+1. A baccalaureate or higher degree or its equivalent is normally the minimum requirement for entry into the particular position;
+2. The degree requirement is common to the industry in parallel positions among similar organizations or, an employer may show that its particular position is so complex or unique that it can be performed only by an individual with a degree;
+3. The employer normally requires a degree or its equivalent for the position;
+4. The nature of the specific duties are so specialized and complex that knowledge required to perform the duties is usually associated with the attainment of a baccalaureate or higher degree.
+
+#### 3. Beneficiary Qualification
+School records, diplomas, degrees, affidavits, declarations, contracts, and similar documentation bust be submitted to show that the alien meets one of the following criteria:
+1. Hold a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university;
+2. Hold a foreign degree determined to be equivalent to a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university. This by evaluation of education by a reliable credentials evaluation service which specializes in evaluating foreign educational credentials
+
+#### 4. Prevailing wage
+Attach
+1. Copies of any written contracts between the petitioner and beneficiary, or a summary of the terms of the oral agreement under which the beneficiary will be employed, if there is no written contract.
+2. A certification from the Secretary of Labor that the petitioner has filed a labor condition application with the Secretary,
+3. A statement that it will comply with the terms of the labor condition application for the duration of the alien's authorized period of stay,
+
+#### 5. Return costs
+Liability for transportation costs. The employer will be liable for the reasonable costs of return transportation of the alien abroad if the alien is dismissed from employment by the employer before the end of the period of authorized admission.
 
 
-The petition must be filed by a U.S. employer or a U.S. agent and must be filed with:
-1.	 Evidence that a labor condition application (LCA) has been certified by the U.S. Department of Labor;
-2.	 Evidence showing that the proposed employment qualifies as a specialty occupation;
-3.	 Evidence showing that the beneficiary has the required degree by submitting either:
-  1.	 A copy of the beneficiary’s U.S. bachelor’s or higher degree as required by the specialty occupation;
-  2.	 A copy of a foreign degree and evidence that it is equivalent to the U.S. degree; or
-  3.	 Evidence of education, specialized training, and/or progressively responsible experience that is equivalent to the
-required U.S. degree.
-4. A copy of any required license or other official permission to practice the occupation in the state of intended
-employment; and
-5. A copy of any written contract between the petitioner and the beneficiary or a summary of the terms of the oral
-agreement under which the beneficiary will be employed.
-
+### Filling in I-129
+[Dot Code](https://www.foreignlaborcert.doleta.gov/pdf/eta_form_9035cp_appendix_i_121908.pdf) for Electrical Engineers: 003
 
 Sign preferably with blue ink.
+
+
+### Additional evidence for extension of stay
+beneficiary’s last 2 pay stubs, Form W-2, and other relevant evidence, as well as a copy of the beneficiary’s Form I-94, passport, travel document, or I-797.
+
+### Filing fees payable by check
+There are three fees: the I-129 fee, the Fraud detection and prevention fee, and the ACWIA fee.
+
+The American Competitiveness and Workforce Improvement Act (ACWIA) Fee is a training fee meant to fund the training of U.S. workers. If the employer has fewer than 25 full-time employees, they must pay only one-half of the required fee.
+
+**According to the Code of Federal Regulations (CFR) [DOL WHD Fact Sheet  #62H](http://www.dol.gov/whd/regs/compliance/FactSheet62/whdfs62H.pdf), an H-1B worker can never be required to pay any part of the ACWIA and Fraud detection and prevention fees. Attorney fees and filing fees for ETA 9035 and Form I-129 can be deducted as long as they don't reduce an H-1B worker’s pay below the required wage rate.**
+
+All checks and money orders must be drawn on U.S. financial institutions and payable in U.S. funds.
+
+Make the check or money order payable to **U.S. Department of Homeland Security** (not "USDHS" or "DHS").
+
+#### Check 1
+U.S. Department of Homeland Security - $325.00 - Form I-129
+
+#### Check 2
+U.S. Department of Homeland Security - $500.00 - Fraud Detection and Prevention Fee
+
+#### Check 3
+U.S. Department of Homeland Security - $1500.00 - ACWIA fee
+
+
+### Mailing the package
+
+Preferred order of documents:
+1. Form I-129, Petition for a Nonimmigrant Worker
+2. Addendums/Attachments
+4. H-1B Data Collection and Filing Fee Exemption Supplement
+5. All supporting documentation to establish eligibility. Provide a table of contents for supporting documentation and tab the items as listed in the table
+6. Arrival-Departure Record (Form I-94) if the beneficiary is in the United States
+7. SEVIS Form I-20 if the beneficiary is a current or former F-1 student or F-2 dependent
+8. SEVIS Form DS-2019 if the beneficiary is a current or former J-1 or J-2
+9. Form I-566 if the beneficiary is a current A or G nonimmigrant
+10. Department of Labor certified LCA, Form ETA 9035
+11. Employer/attorney/representative letter(s)
+12. Other supporting documentation
+13. Copy of the petition, if necessary. Clearly mark it as “COPY” so that it is not mistaken for a duplicate filing.
+
+Staple checks to the bottom right corner of the top document.
 
 Courier Filing Address:
 
