@@ -1,5 +1,5 @@
 # H-1B
-Collection of information regarding the H-1B (specialty occupation) visa transfer, assuming the simplest case (beneficiary will work at the company's main office, there is no [EAR](http://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear#ccl) OR ITAR data they will have access to, and the company is not H-1B dependent)
+Collection of information regarding the H-1B (specialty occupation) visa transfer, assuming the simplest case (beneficiary will work at the company's main office, there is no [EAR](http://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear#ccl)/ITAR data they will have access to, and the company is not H-1B dependent)
 
 Also, the codes and salaries in this document are specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B benificiaries of other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data for their prospective job.
 
@@ -51,9 +51,7 @@ If the company has less than 8 current H-1B employees, fill out the following se
 
 ## Step 2. Form I-129 and DOL-certified LCA to USCIS ($325 + $500 + $1500)
 
-Form I-129 has to be filled in, and additional evidence has to be compiled and submitted with it.
-
-There are 4 requirements for the H-1B transfer for which evidence has to be submitted:
+Form I-129 has to be filled in, and additional evidence has to be compiled for the following 5 requirements.
 
 1. There is an employer-employee relationship with the petitioner
 2. The job must qualify as a specialty occupation
@@ -64,7 +62,7 @@ There are 4 requirements for the H-1B transfer for which evidence has to be subm
 From the [USCIS Adjudicator's Field Manual](https://www.uscis.gov/iframe/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593.html):
 
 #### 1. Employer-employee relationship
-With contracts or offer letters, the petitionor must show a combination of the following:
+With contracts or offer letters, the petitioner must show a combination of the following:
 
 - The beneficiary works at an office location owned/leased by the petitioner,
 - the beneficiary reports directly to the petitioner on a daily basis,
@@ -74,7 +72,7 @@ With contracts or offer letters, the petitionor must show a combination of the f
 - The petitioner claims the beneficiary for tax purposes and provides medical benefits to the beneficiary.
 
 #### 2. Specialty Occupation
-With expert letters and other forms of documentation, it must be shown that the position meets one of the following criteria:
+With writing by an expert in the field, or other forms of documentation, it must be shown that the position meets one of the following criteria:
 
 1. A baccalaureate or higher degree or its equivalent is normally the minimum requirement for entry into the particular position;
 2. The degree requirement is common to the industry in parallel positions among similar organizations or, an employer may show that its particular position is so complex or unique that it can be performed only by an individual with a degree;
@@ -103,20 +101,15 @@ Liability for transportation costs. The employer will be liable for the reasonab
 
 Sign preferably with blue ink.
 
-
-### Additional evidence for extension of stay
-beneficiary’s last 2 pay stubs, Form W-2, and other relevant evidence, as well as a copy of the beneficiary’s Form I-94, passport, travel document, or I-797.
+### Additional evidence
+Beneficiary’s last 2 pay stubs, Form W-2, as well as a copy of the beneficiary’s Form I-94, passport, travel document, or I-797.
 
 ### Filing fees payable by check
-There are three fees: the I-129 fee, the Fraud detection and prevention fee, and the ACWIA fee.
-
-The American Competitiveness and Workforce Improvement Act (ACWIA) Fee is a training fee meant to fund the training of U.S. workers. If the employer has fewer than 25 full-time employees, they must pay only one-half of the required fee.
+There are three fees: the I-129 fee, the Fraud detection and prevention fee, and the ACWIA fee. The American Competitiveness and Workforce Improvement Act (ACWIA) Fee is a training fee meant to fund the training of U.S. workers. If the employer has fewer than 25 full-time employees, they must pay only one-half of the required fee.
 
 **According to the Code of Federal Regulations (CFR) [DOL WHD Fact Sheet  #62H](http://www.dol.gov/whd/regs/compliance/FactSheet62/whdfs62H.pdf), an H-1B worker can never be required to pay any part of the ACWIA and Fraud detection and prevention fees. Attorney fees and filing fees for ETA 9035 and Form I-129 can be deducted as long as they don't reduce an H-1B worker’s pay below the required wage rate.**
 
-All checks and money orders must be drawn on U.S. financial institutions and payable in U.S. funds.
-
-Make the check or money order payable to **U.S. Department of Homeland Security** (not "USDHS" or "DHS").
+All checks and money orders must be drawn on U.S. financial institutions and made payable in U.S. funds to **U.S. Department of Homeland Security** (not "USDHS" or "DHS").
 
 #### Check 1
 U.S. Department of Homeland Security - $325.00 - Form I-129
