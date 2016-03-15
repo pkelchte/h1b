@@ -149,17 +149,21 @@ Staple checks to the bottom right corner of the top document.
 
 Courier Filing Address:
 
+```
 USCIS
 California Service Center
 ATTN: H-1B Extensions
 24000 Avila Road
 2nd Floor, Room 2312
 Laguna Niguel, CA 92677
+```
 
 Regular Mail Filing Address:
 
+```
 USCIS
 California Service Center
 ATTN: H-1B Extensions
 P.O. Box 10129
 Laguna Niguel, CA 92607-1012
+```
