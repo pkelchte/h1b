@@ -54,13 +54,26 @@ If the company has less than 8 current H-1B employees, fill out the following se
 
 ## Step 2. Form I-129 and additional evidence USCIS ($325 + $500 + $1500)
 
-Form I-129 has to be filled in, and additional evidence has to be compiled for the following 5 requirements.
+Form I-129 has to be filled in, and for H-1B workers, additional evidence has to be compiled so the government official can verify the following 5 requirements.
 
 1. There is an employer-employee relationship with the petitioner
 2. The job must qualify as a specialty occupation
 3. The beneficiary must qualify for that job
 4. The benificiary must be paid at least the prevailing wage
 5. The employer is liable for reasonable costs of return transportation at dismissal before the end of the visa
+
+### Filling in I-129 and attachments
+Sign preferably with dark blue ink.
+
+#### I-129
+[Dot Code](https://www.foreignlaborcert.doleta.gov/pdf/eta_form_9035cp_appendix_i_121908.pdf) for Electrical Engineers: 003
+
+#### H Classification Supplement to Form I-129
+
+#### H-1B and H-1B1 Data Collection and Filing Fee Exemption Supplement
+
+### Additional evidence
+Beneficiary’s last 2 pay stubs, Form W-2, as well as a copy of the beneficiary’s Form I-94, passport, travel document, or I-797.
 
 From the [USCIS Adjudicator's Field Manual](https://www.uscis.gov/iframe/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593.html):
 
@@ -99,20 +112,6 @@ Attach all three:
 Written confirmation acknowledging the liability for transportation costs.
 
 The employer will be liable for the reasonable costs of return transportation of the alien abroad if the alien is dismissed from employment by the employer before the end of the period of authorized admission.
-
-### Filling in I-129 and attachments
-Sign preferably with dark blue ink.
-
-#### I-129
-[Dot Code](https://www.foreignlaborcert.doleta.gov/pdf/eta_form_9035cp_appendix_i_121908.pdf) for Electrical Engineers: 003
-
-#### H Classification Supplement to Form I-129
-
-#### H-1B and H-1B1 Data Collection and Filing Fee Exemption Supplement
-
-
-### Additional evidence
-Beneficiary’s last 2 pay stubs, Form W-2, as well as a copy of the beneficiary’s Form I-94, passport, travel document, or I-797.
 
 ### Filing fees payable by check
 There are three fees: the I-129 fee, the Fraud detection and prevention fee, and the ACWIA fee. The American Competitiveness and Workforce Improvement Act (ACWIA) Fee is a training fee meant to fund the training of U.S. workers. If the employer has fewer than 25 full-time employees, they must pay only one-half of the required fee.
