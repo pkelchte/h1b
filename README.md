@@ -54,6 +54,7 @@ If the company has less than 8 current H-1B employees, fill out the following se
 Form I-129 has to be filled in, and additional evidence has to be compiled and submitted with it.
 
 There are 4 requirements for the H-1B transfer for which evidence has to be submitted:
+
 1. There is an employer-employee relationship with the petitioner
 2. The job must qualify as a specialty occupation
 3. The beneficiary must qualify for that job
@@ -64,6 +65,7 @@ From the [USCIS Adjudicator's Field Manual](https://www.uscis.gov/iframe/ilink/d
 
 #### 1. Employer-employee relationship
 With contracts or offer letters, the petitionor must show a combination of the following:
+
 - The beneficiary works at an office location owned/leased by the petitioner,
 - the beneficiary reports directly to the petitioner on a daily basis,
 - the petitioner sets the work schedule of the beneficiary,
@@ -73,6 +75,7 @@ With contracts or offer letters, the petitionor must show a combination of the f
 
 #### 2. Specialty Occupation
 With expert letters and other forms of documentation, it must be shown that the position meets one of the following criteria:
+
 1. A baccalaureate or higher degree or its equivalent is normally the minimum requirement for entry into the particular position;
 2. The degree requirement is common to the industry in parallel positions among similar organizations or, an employer may show that its particular position is so complex or unique that it can be performed only by an individual with a degree;
 3. The employer normally requires a degree or its equivalent for the position;
@@ -80,11 +83,13 @@ With expert letters and other forms of documentation, it must be shown that the 
 
 #### 3. Beneficiary Qualification
 School records, diplomas, degrees, affidavits, declarations, contracts, and similar documentation bust be submitted to show that the alien meets one of the following criteria:
+
 1. Hold a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university;
 2. Hold a foreign degree determined to be equivalent to a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university. This by evaluation of education by a reliable credentials evaluation service which specializes in evaluating foreign educational credentials
 
 #### 4. Prevailing wage
 Attach
+
 1. Copies of any written contracts between the petitioner and beneficiary, or a summary of the terms of the oral agreement under which the beneficiary will be employed, if there is no written contract.
 2. A certification from the Secretary of Labor that the petitioner has filed a labor condition application with the Secretary,
 3. A statement that it will comply with the terms of the labor condition application for the duration of the alien's authorized period of stay,
@@ -126,6 +131,7 @@ U.S. Department of Homeland Security - $1500.00 - ACWIA fee
 ### Mailing the package
 
 Preferred order of documents:
+
 1. Form I-129, Petition for a Nonimmigrant Worker
 2. Addendums/Attachments
 4. H-1B Data Collection and Filing Fee Exemption Supplement
