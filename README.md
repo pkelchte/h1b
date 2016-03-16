@@ -88,8 +88,8 @@ The petitioner must clearly show that an employer-employee relationship will exi
 - Copy of signed Employment Agreement between the petitioner and beneficiary detailing the terms and conditions of employment; 
 - Copy of an employment offer letter that clearly describes the nature of the employer-employee relationship and the services to be performed by the beneficiary;
 - Copy of position description or any other documentation that describes the skills required to perform the job offered, the source of the instrumentalities and tools needed to perform the job, the product to be developed or the service to be provided, the location where the beneficiary will perform the duties, the duration of the relationship between the petitioner and beneficiary, whether the petitioner has the right to assign additional duties, the extent of petitioner’s discretion over when and how long the beneficiary will work, the method of payment, the petitioner’s role in paying and hiring assistants to be utilized by the beneficiary, whether the work to be performed is part of the regular business of the petitioner, the provision of employee benefits, and the tax treatment of the beneficiary in relation to the petitioner; 
-
-
+- A description of the performance review process; and/or 
+- Copy of petitioner’s organizational chart, demonstrating beneficiary’s supervisory chain.
 
 #### 2. Specialty Occupation
 With writing by a recognized authority, it must be shown that the position meets one of the following criteria:
