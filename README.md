@@ -66,6 +66,11 @@ Form I-129 has to be filled in, and for H-1B workers, additional evidence has to
 Do not forget to sign the following three parts of the form!
 
 #### I-129
+
+Basis for classification: e. Change of employer.
+
+Requested action: c. Extend the stay of each beneficiary because the beneficiary(ies) now hold(s) this status.
+
 [Dot Code](https://www.foreignlaborcert.doleta.gov/pdf/eta_form_9035cp_appendix_i_121908.pdf) for Electrical Engineers: 003
 
 #### H Classification Supplement to Form I-129
@@ -78,28 +83,37 @@ Beneficiary’s last 2 pay stubs, Form W-2, as well as a copy of the beneficiary
 From the [USCIS Adjudicator's Field Manual](https://www.uscis.gov/iframe/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593.html):
 
 #### 1. Employer-employee relationship
-With contracts or offer letters, the petitioner must show a combination of the following:
+The petitioner must clearly show that an employer-employee relationship will exist between the petitioner and beneficiary, and establish that the employer has the right to control the beneficiary’s work, including the ability to hire, fire and supervise the beneficiary. The petitioner must also be responsible for the overall direction of the beneficiary’s work. Lastly, the petitioner should be able to establish that the above elements will continue to exist throughout the duration of the requested H-1B validity period. The petitioner can demonstrate an employer-employee relationship by providing a combination of the following or similar types of evidence:
 
-- The beneficiary works at an office location owned/leased by the petitioner,
-- the beneficiary reports directly to the petitioner on a daily basis,
-- the petitioner sets the work schedule of the beneficiary,
-- the beneficiary uses the petitioner’s tools/instrumentalities to perform the duties of employment,
-- the petitioner directly reviews the work-product of the beneficiary.
-- The petitioner claims the beneficiary for tax purposes and provides medical benefits to the beneficiary.
+- Copy of signed Employment Agreement between the petitioner and beneficiary detailing the terms and conditions of employment; 
+- Copy of an employment offer letter that clearly describes the nature of the employer-employee relationship and the services to be performed by the beneficiary;
+- Copy of position description or any other documentation that describes the skills required to perform the job offered, the source of the instrumentalities and tools needed to perform the job, the product to be developed or the service to be provided, the location where the beneficiary will perform the duties, the duration of the relationship between the petitioner and beneficiary, whether the petitioner has the right to assign additional duties, the extent of petitioner’s discretion over when and how long the beneficiary will work, the method of payment, the petitioner’s role in paying and hiring assistants to be utilized by the beneficiary, whether the work to be performed is part of the regular business of the petitioner, the provision of employee benefits, and the tax treatment of the beneficiary in relation to the petitioner; 
+
+
 
 #### 2. Specialty Occupation
-With writing by an expert in the field, or other forms of documentation, it must be shown that the position meets one of the following criteria:
+With writing by a recognized authority, it must be shown that the position meets one of the following criteria:
 
 1. A baccalaureate or higher degree or its equivalent is normally the minimum requirement for entry into the particular position;
 2. The degree requirement is common to the industry in parallel positions among similar organizations or, an employer may show that its particular position is so complex or unique that it can be performed only by an individual with a degree;
 3. The employer normally requires a degree or its equivalent for the position;
 4. The nature of the specific duties are so specialized and complex that knowledge required to perform the duties is usually associated with the attainment of a baccalaureate or higher degree.
 
-#### 3. Beneficiary Qualification
-School records, diplomas, degrees, affidavits, declarations, contracts, and similar documentation bust be submitted to show that the alien meets one of the following criteria:
+Such an opinion must state:
+1. The writer's qualifications as an expert; 
+2. The writer's experience giving such opinions, citing specific instances where past opinions have been accepted as authoritative and by whom; 
+3. How the conclusions were reached; and 
+4. The basis for the conclusions supported by copies or citations of any research material used.
 
-1. Hold a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university;
-2. Hold a foreign degree determined to be equivalent to a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university. This by evaluation of education by a reliable credentials evaluation service which specializes in evaluating foreign educational credentials
+#### 3. Beneficiary Qualification
+School records, diplomas, degrees, affidavits, declarations, and contracts must be submitted to show that the alien is qualified to perform services in a specialty occupation.
+
+Affidavits submitted by present or former employers or recognized authorities certifying the recognition and expertise of the beneficiary shall specifically describe the beneficiary's recognition and ability in factual terms. They must set forth the expertise of the affiant and the manner in which the affiant acquired such information.
+
+It must also be shown that the alien:
+
+1. Holds a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university;
+2. Holds a foreign degree determined to be equivalent to a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university. This by evaluation of education by a reliable credentials evaluation service which specializes in evaluating foreign educational credentials
 
 #### 4. Prevailing wage
 Attach all three:
