@@ -63,7 +63,7 @@ Form I-129 has to be filled in, and for H-1B workers, additional evidence has to
 5. The employer is liable for reasonable costs of return transportation at dismissal before the end of the visa
 
 ### Filling in I-129 and attachments
-Sign preferably with dark blue ink.
+Do not forget to sign the following three parts of the form!
 
 #### I-129
 [Dot Code](https://www.foreignlaborcert.doleta.gov/pdf/eta_form_9035cp_appendix_i_121908.pdf) for Electrical Engineers: 003
