@@ -1,7 +1,7 @@
 # H-1B
 Collection of information regarding the H-1B (specialty occupation) visa transfer, assuming the simplest case (beneficiary will work at the company's main office, there is no [EAR](http://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear#ccl)/ITAR data they will have access to, and the company is not H-1B dependent)
 
-Also, the codes and salaries in this document are specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B benificiaries of other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data for their prospective job.
+Also, the codes and salaries in this document are specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B workers with other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data for their prospective job.
 
 # Application Process
 
@@ -11,6 +11,8 @@ This happens online and is free.
 This happens by mail. The total filing fee is $2325, additional details about deducting this business expense to the worker are found below.
 
 As soon as the package in 2. is submitted, the H-1B worker can start employment with the new employer.
+
+The H-1B worker can reenter the country with the original H-1B visa and stamp in their passport as long as that visa is not expired. The new Form I-797 however needs to be presented.
 
 ## Step 1. Labor Condition Approval approval with DOL -- (online, $0)
 
@@ -30,6 +32,7 @@ All data in this form is straightforward (point of contact at company, Federal E
 - 4 *Full-Time*: Yes
 - 5 *Begin Date*: 03-28-2016
 - 6 *End Date*: 03-27-2019 (H-1B can be requested for max. 3 years at a time)
+- 7 *Basis for visa classification*: e. Change in employer.
 
 ### G. Employment and Prevailing Wage Information
 
@@ -83,37 +86,39 @@ Beneficiary’s last 2 pay stubs, Form W-2, as well as a copy of the beneficiary
 From the [USCIS Adjudicator's Field Manual](https://www.uscis.gov/iframe/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593.html):
 
 #### 1. Employer-employee relationship
-The petitioner must clearly show that an employer-employee relationship will exist between the petitioner and beneficiary, and establish that the employer has the right to control the beneficiary’s work, including the ability to hire, fire and supervise the beneficiary. The petitioner must also be responsible for the overall direction of the beneficiary’s work. Lastly, the petitioner should be able to establish that the above elements will continue to exist throughout the duration of the requested H-1B validity period. The petitioner can demonstrate an employer-employee relationship by providing a combination of the following or similar types of evidence:
+The petitioner must clearly show that an employer-employee relationship will exist between the petitioner and beneficiary, and establish that the employer has the right to control the beneficiary’s work, including the ability to hire, fire and supervise the beneficiary. The petitioner must also be responsible for the overall direction of the beneficiary’s work. The above elements should continue to exist throughout the duration of the requested H-1B validity period. The petitioner can demonstrate an employer-employee relationship by providing a combination of the following or similar types of evidence:
 
 - Copy of signed Employment Agreement between the petitioner and beneficiary detailing the terms and conditions of employment; 
 - Copy of an employment offer letter that clearly describes the nature of the employer-employee relationship and the services to be performed by the beneficiary;
-- Copy of position description or any other documentation that describes the skills required to perform the job offered, the source of the instrumentalities and tools needed to perform the job, the product to be developed or the service to be provided, the location where the beneficiary will perform the duties, the duration of the relationship between the petitioner and beneficiary, whether the petitioner has the right to assign additional duties, the extent of petitioner’s discretion over when and how long the beneficiary will work, the method of payment, the petitioner’s role in paying and hiring assistants to be utilized by the beneficiary, whether the work to be performed is part of the regular business of the petitioner, the provision of employee benefits, and the tax treatment of the beneficiary in relation to the petitioner; 
-- A description of the performance review process; and/or 
+- Copy of position description that describes the skills required to perform the job offered, the source of the instrumentalities and tools needed to perform the job, the product to be developed or the service to be provided and whether that is part of the regular business of the petitioner, the location where the beneficiary will work, the duration of the relationship between the petitioner and beneficiary, whether the petitioner has the right to assign additional duties, the extent of petitioner’s discretion over when and how long the beneficiary will work, the method of payment, the petitioner’s role in paying and hiring assistants to be utilized by the beneficiary, the provision of employee benefits, and the tax treatment of the beneficiary in relation to the petitioner; 
+- A description of the performance review process; and/or
 - Copy of petitioner’s organizational chart, demonstrating beneficiary’s supervisory chain.
 
 #### 2. Specialty Occupation
-With writing by a recognized authority, it must be shown that the position meets one of the following criteria:
+It must be shown that the position meets one of the following criteria:
 
 1. A baccalaureate or higher degree or its equivalent is normally the minimum requirement for entry into the particular position;
 2. The degree requirement is common to the industry in parallel positions among similar organizations or, an employer may show that its particular position is so complex or unique that it can be performed only by an individual with a degree;
 3. The employer normally requires a degree or its equivalent for the position;
 4. The nature of the specific duties are so specialized and complex that knowledge required to perform the duties is usually associated with the attainment of a baccalaureate or higher degree.
 
-Such an opinion must state:
+#### 3. Beneficiary Qualification
+Evidence must be submitted to show that the alien is qualified to perform services in a specialty occupation.
+
+##### School records, diplomas, degrees
+It must be shown that the alien:
+
+1. Holds a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university;
+2. Holds a foreign degree determined to be equivalent to a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university. This by evaluation of education by a reliable credentials evaluation service which specializes in evaluating foreign educational credentials
+
+##### Affidavits, declarations
+Affidavits submitted by present or former employers or recognized authorities certifying the recognition and expertise of the beneficiary shall specifically describe the beneficiary's recognition and ability in factual terms. They must set forth the expertise of the affiant and the manner in which the affiant acquired such information.
+
+Such writing must state:
 1. The writer's qualifications as an expert; 
 2. The writer's experience giving such opinions, citing specific instances where past opinions have been accepted as authoritative and by whom; 
 3. How the conclusions were reached; and 
 4. The basis for the conclusions supported by copies or citations of any research material used.
-
-#### 3. Beneficiary Qualification
-School records, diplomas, degrees, affidavits, declarations, and contracts must be submitted to show that the alien is qualified to perform services in a specialty occupation.
-
-Affidavits submitted by present or former employers or recognized authorities certifying the recognition and expertise of the beneficiary shall specifically describe the beneficiary's recognition and ability in factual terms. They must set forth the expertise of the affiant and the manner in which the affiant acquired such information.
-
-It must also be shown that the alien:
-
-1. Holds a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university;
-2. Holds a foreign degree determined to be equivalent to a United States baccalaureate or higher degree required by the specialty occupation from an accredited college or university. This by evaluation of education by a reliable credentials evaluation service which specializes in evaluating foreign educational credentials
 
 #### 4. Prevailing wage
 Attach all three:
