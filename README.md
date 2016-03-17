@@ -160,7 +160,6 @@ Preferred order of documents:
 6. Arrival-Departure Record (Form I-94) if the beneficiary is in the United States
 7. SEVIS Form I-20 if the beneficiary is a current or former F-1 student or F-2 dependent
 8. SEVIS Form DS-2019 if the beneficiary is a current or former J-1 or J-2
-9. Form I-566 if the beneficiary is a current A or G nonimmigrant
 10. Department of Labor certified LCA, Form ETA 9035
 11. Employer/attorney/representative letter(s)
 12. Other supporting documentation
