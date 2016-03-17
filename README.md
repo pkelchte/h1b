@@ -66,7 +66,7 @@ Form I-129 has to be filled in, and for H-1B workers, additional evidence has to
 5. The employer is liable for reasonable costs of return transportation at dismissal before the end of the visa
 
 ### Filling in I-129 and attachments
-Do not forget to sign the following three parts of the form!
+Do not forget to sign with **BLUE INK** the following three parts of the form. This to readily identify the original signature.
 
 #### I-129
 
