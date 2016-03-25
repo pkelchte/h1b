@@ -148,6 +148,7 @@ U.S. Department of Homeland Security - $500.00 - Fraud Detection and Prevention 
 #### Check 3
 U.S. Department of Homeland Security - $1500.00 - ACWIA fee
 
+Staple checks to the bottom right corner of the top document.
 
 ### Mailing the package
 
