@@ -1,4 +1,8 @@
-# H-1B
+Some history: I was feeling lucky in the beginning of this year and attempted an H1B visa transfer without consulting any paid advisors. I read through the law texts referred to below, compiled instructions, and successfully helped my new employer file my case with USCIS.
+
+We filed -closely following these instructions- at the end of March 2016, got a Receipt Notice within days, next came an Approval Notice in December. If your visa situation is uncomplicated, you can definitely do it too!
+
+# H-1B Change of Employer
 Collection of information regarding the H-1B (specialty occupation) visa transfer, assuming the simplest case (beneficiary will work at the company's main office, there is no [EAR](http://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear#ccl)/ITAR data they will have access to, and the company is not H-1B dependent)
 
 Also, the codes and salaries in this document are specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B workers with other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data for their prospective job.
@@ -161,9 +165,9 @@ Preferred order of documents:
 6. Arrival-Departure Record (Form I-94) if the beneficiary is in the United States
 7. SEVIS Form I-20 if the beneficiary is a current or former F-1 student or F-2 dependent
 8. SEVIS Form DS-2019 if the beneficiary is a current or former J-1 or J-2
-10. Department of Labor certified LCA, Form ETA 9035
+10. Department of Labor certified LCA, Form ETA 9035 (Don't forget to sign the form after printing)
 11. Employer/attorney/representative letter(s)
-12. Other supporting documentation
+12. Other supporting documentation, for example a company brochure
 13. Copy of the petition, if necessary. Clearly mark it as “COPY” so that it is not mistaken for a duplicate filing.
 
 Staple checks to the bottom right corner of the top document.
