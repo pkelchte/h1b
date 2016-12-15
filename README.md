@@ -3,9 +3,9 @@ Some history: I was feeling lucky in the beginning of this year and attempted an
 We filed -closely following these instructions- at the end of March 2016, got a Receipt Notice within days, next came an Approval Notice in December. If your visa situation is uncomplicated, you can definitely do it too!
 
 # H-1B Change of Employer
-Collection of information regarding the H-1B (specialty occupation) visa transfer, assuming the simplest case (beneficiary will work at the company's main office, there is no [EAR](http://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear#ccl)/ITAR data they will have access to, and the company is not H-1B dependent)
+This is a collection of information regarding the H-1B (specialty occupation) visa transfer, assuming the simplest case. The beneficiary already holds a valid H-1B visa, will work at the company's main office, there is no [EAR](http://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear#ccl)/ITAR data they will have access to, and the company is not H-1B dependent.
 
-Also, the codes and salaries in this document are specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B workers with other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data for their prospective job.
+The codes and salaries in this document are specific to entry level Electrical Engineers in the Los Angeles County (Area Code: 31084). H-1B workers with other occupations in other regions should use the [FLC Data Center wizard](http://www.flcdatacenter.com/OESWizardStart.aspx) to obtain data for their prospective job.
 
 # Application Process
 
